@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.username {
+  color: #12022f;
+  font-size: 24px;
+}
+.role {
+  color: #616e7c;
+}
+.profile {
+  width: 180px;
+}
